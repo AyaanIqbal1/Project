@@ -52,7 +52,40 @@ By combining blockchain's immutability with granular access controls, the platfo
      <img width="308" alt="image" src="https://github.com/user-attachments/assets/783a848f-5447-445e-a64e-c42772b11c35" />
 
 
-12. 
+12. Go back to your VS Code and type in the terminal :
+    truffle compile
+    truffle migrate
+
+13. Have all the files loaded up and type in the terminal
+    npm start
+
+14. Now the react script will start and the landing page will load up
+    <img width="1772" alt="image" src="https://github.com/user-attachments/assets/5c5f50bb-0cf1-4e9d-8f9c-1b2993130338" />
+
+
+15. First you will need register three accounts doctor,patient and diagnostic
+    <img width="815" alt="image" src="https://github.com/user-attachments/assets/09cdc258-faa6-4eb6-ae7d-919d9d36b0e2" />
+
+16. Fill in these details and it will need to use metamask for the crypto wallet address and tp be able to register the account
+    <img width="731" alt="image" src="https://github.com/user-attachments/assets/adcc5b89-3a4d-4d82-8963-bad648a59232" />
+
+17. Once you are loged in as a doctor you can see who your patients are and give them a prescription consultancy and afterwards you can be able to remove them using metamask to confirm the transaction
+    <img width="1868" alt="image" src="https://github.com/user-attachments/assets/1629bba8-a8da-490b-a555-f80151c9445e" />
+
+18. Diagnostic will be able to do something similar by completing a diagnostic report
+    <img width="899" alt="image" src="https://github.com/user-attachments/assets/27c35360-007c-471d-9e52-d79974e69fea" />
+
+
+19. The patient will be able to see what the report has in it to see what the next steps are
+    <img width="599" alt="image" src="https://github.com/user-attachments/assets/7f9c3739-a72b-4075-b1e3-b97dfb75f08c" />
+
+    
+
+
+
+
+
+
 
 
 
